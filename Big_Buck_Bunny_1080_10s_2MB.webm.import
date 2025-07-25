@@ -1,0 +1,14 @@
+[remap]
+
+importer="WindowsMediaFoundation"
+type="VideoStreamWMF"
+uid="uid://cnct6mknq7hgm"
+valid=false
+
+[deps]
+
+source_file="res://Big_Buck_Bunny_1080_10s_2MB.webm"
+
+[params]
+
+loop=false
